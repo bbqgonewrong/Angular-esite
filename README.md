@@ -1,3 +1,1 @@
-# angular-tfkxs7-tafx4h
-
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/angular-tfkxs7-tafx4h)
+Work done on a mini project on Angular and will be neeting this to go through the code whenever free.
